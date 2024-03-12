@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Training\LR\Scripts\WebTours_Recording_AddCheckpoint
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\training\lr\scripts\webtours_recording_addcheckpoint\\logfile.log
+c:\training\lr\scripts\webtours_recording_addcheckpoint\\combined_WebTours_Recording_AddCheckpoint.c
+c:\training\lr\scripts\webtours_recording_addcheckpoint\\pre_cci.c

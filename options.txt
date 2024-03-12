@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Training\LR\Scripts\WebTours-Recording-ManualCorrelation
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\training\lr\scripts\webtours-recording-manualcorrelation\\logfile.log
+c:\training\lr\scripts\webtours-recording-manualcorrelation\\combined_WebTours-Recording-ManualCorrelation.c
+c:\training\lr\scripts\webtours-recording-manualcorrelation\\pre_cci.c

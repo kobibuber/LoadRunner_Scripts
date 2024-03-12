@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Training\LR\Scripts\AOS_Place Order_Recording
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\training\lr\scripts\aos_place order_recording\\logfile.log
+c:\training\lr\scripts\aos_place order_recording\\combined_AOS_Place Order_Recording.c
+c:\training\lr\scripts\aos_place order_recording\\pre_cci.c

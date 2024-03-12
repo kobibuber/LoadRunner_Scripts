@@ -1,0 +1,8 @@
+[parameter:Param1_UserName]
+Format="t%04lu"
+GenerateNewVal="EachIteration"
+MaxValue="50"
+MinValue="1"
+OriginalValue="jojo"
+ParamName="Param1_UserName"
+Type="Random"

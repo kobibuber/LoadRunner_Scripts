@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Training\LR\Scripts\WebTours-Recording
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\training\lr\scripts\webtours-recording\\logfile.log
+c:\training\lr\scripts\webtours-recording\\combined_WebTours-Recording.c
+c:\training\lr\scripts\webtours-recording\\pre_cci.c
